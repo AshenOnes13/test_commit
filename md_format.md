@@ -2,7 +2,7 @@ Lorem ipsum dolor
 ===
 
 ***
-Lorem ipsum dolor
+Lorem проверка связи 
 -----------------------------------------------------------------------------
 
 **Sed ut perspiciatis** -  unde omnis iste natus error sit 
